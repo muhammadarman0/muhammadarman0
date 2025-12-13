@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋 I'm Muhammad Arman
 
-<!--
-**muhammadarman0/muhammadarman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Web Developer (Beginner) 📚 Currently learning JavaScript 🎯 Goal: Become a Full Stack Developer
 
-Here are some ideas to get you started:
+🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5
+
+CSS3
+
+JavaScript (Basic)
+📂 Projects
+
+Sign Up Page UI — Clean UI using HTML & CSS
+
+Counter App — Increase / Decrease counter (JavaScript)
+
+Student Record Table — Table with delete button (HTML, CSS, JS)
+
+🌱 What I'm Learning Now
+
+JavaScript DOM
+
+Functions & Events
+
+Basic problem solving
+
+📫 Contact
+
+GitHub: @MuhammadArman
+⭐ I believe in learning by building small projects every day.
