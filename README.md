@@ -27,5 +27,6 @@ Basic problem solving
 
 📫 Contact
 
+⭐ Learning by building projects daily
+
 GitHub: @MuhammadArman
-⭐ I believe in learning by building small projects every day.
