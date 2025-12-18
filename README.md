@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadamrman0" alt="muhammadamrman0" /></a> </p>
 
-- I’m currently working on [Sign up](https://deft-tartufo-e80ed1.netlify.app/)
-
 - 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on [Stop Watch](https://app.netlify.com/projects/mellifluous-frangipane-fc1fed/overview)
